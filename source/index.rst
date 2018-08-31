@@ -10,6 +10,8 @@ Welcome to Sphinx build example's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   guides
+   tutorials
 
 
 Indices and tables
